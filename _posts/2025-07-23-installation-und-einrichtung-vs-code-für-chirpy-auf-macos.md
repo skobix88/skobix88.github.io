@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Installation und Einrichtung VS Code für Chirpy"
+title: "Installation und Einrichtung VS Code für Chirpy auf macOS"
 date: 2025-07-23 15:15:50 +0000
 description: "Ich dokumentiere hier ganz grob die Installation und Einrichtung der benötigten Software, um auf MacOS mit VS Code eine Chirpy-basierte Webseite zu pflegen."
 categories: [Blog]
