@@ -19,7 +19,7 @@ toc: true     # Inhaltsverzeichnis anzeigen
 
 ## Einleitung
 
-Ich beschreibe hier in großen Schritten, was auf einem Macbook zu tun ist, um dort seine auf Github liegende Webseite mit VS Code zu pflegen.
+Ich beschreibe hier in groben Schritten, was auf einem Macbook zu tun ist, um dort seine auf Github liegende Webseite mit VS Code zu pflegen.
 > 💡 Kurze Einleitung oder Zitat
 
 ## Installation von docker-desktop unter macOS mit brew
