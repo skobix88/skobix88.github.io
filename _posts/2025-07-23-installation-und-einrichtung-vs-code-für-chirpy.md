@@ -34,7 +34,7 @@ Ich beschreibe hier in großen Schritten, was auf einem Macbook zu tun ist, um d
 
 ## Installation der "Dev Containers Extension" in VS Code
 
-Die Extension kann man einfach [hier](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) installieren
+Die Extension kann man einfach [hier](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) installieren.
 
 
 
