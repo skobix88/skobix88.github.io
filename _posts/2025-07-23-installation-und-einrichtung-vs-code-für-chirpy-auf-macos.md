@@ -2,7 +2,7 @@
 layout: post
 title: "Installation und Einrichtung VS Code für Chirpy auf macOS"
 date: 2025-07-23 15:15:50 +0000
-description: "Ich dokumentiere hier ganz grob die Installation und Einrichtung der benötigten Software, um auf MacOS mit VS Code eine Chirpy-basierte Webseite zu pflegen."
+description: "Ich dokumentiere hier ganz grob die Installation und Einrichtung der benötigten Software, um auf MacOS mit VS Code eine auf Chirpy basierte Webseite zu verwalten."
 categories: [Blog]
 tags: [vscode, chirpy, github, brew]
 toc: true     # Inhaltsverzeichnis anzeigen
@@ -64,7 +64,7 @@ Dann kann man mit der Programmierung der Webseite beginnen/fortfahren.
 
 Man kann die Seite dann per VS Code uploaden. Das sollte bekannt sein.
 
-Außerdem kann man die Seite auch lokal betrachten.
+Außerdem kann man die Seite auch lokal betrachten. Hierzu gibt man den folgenden Befehl im Terminal von "VS Code" ein.
 
 ```Terminal
-```$ bundle exec jekyll serve
+$ bundle exec jekyll serve```
