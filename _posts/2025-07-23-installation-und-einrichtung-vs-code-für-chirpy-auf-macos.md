@@ -24,10 +24,12 @@ Ich beschreibe hier in groben Schritten, was auf einem Macbook zu tun ist, um do
 
 ## Installation von docker-desktop unter macOS mit brew
 
-    brew install --cask docker
-
+```bash
+brew install --cask docker
+````
 
 ## Installation von VS Code mit brew
+
 
 ```bash
 brew install --cask visual-studio-code
@@ -58,7 +60,7 @@ Dann kann man mit der Programmierung der Webseite beginnen/fortfahren.
 
 ## Bilder einfügen
 
-#![Beschreibung](/assets/img/2025-07-23-installation-und-einrichtung-vs-code-für-chirpy/Unbenannt-1.webp)
+#![Beschreibung](/assets/img/2025-07-23-installation-und-einrichtung-vs-code-für-chirpy-auf-macos/Unbenannt-1.webp)
 #![Beispiel](/)
 
 
