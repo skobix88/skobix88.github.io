@@ -21,6 +21,24 @@
       },
       "problemMatcher": [],
       "detail": "Build the Jekyll site for production."
+    },
+    {
+      "label": "📝 Neuen Blogpost erstellen",
+      "type": "shell",
+      "command": "${workspaceFolder}/neuer-post.sh",
+      "args": ["${input:postTitle}"],
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "postTitle",
+      "type": "promptString",
+      "description": "Gib den Titel des neuen Blogposts ein"
     }
   ]
 }
