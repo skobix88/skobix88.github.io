@@ -20,7 +20,7 @@ toc: true     # Inhaltsverzeichnis anzeigen
 ## Einleitung
 
 Ich beschreibe hier in groben Schritten, was auf einem Macbook zu tun ist, um dort seine auf Github liegende Webseite mit VS Code zu pflegen.
-> 💡 Kurze Einleitung oder Zitat
+
 
 ## Installation von docker-desktop unter macOS mit brew
 
@@ -29,7 +29,7 @@ Ich beschreibe hier in groben Schritten, was auf einem Macbook zu tun ist, um do
 
 ## Installation von VS Code mit brew
 
-```brew install --cask visual-studio-code
+```brew install --cask visual-studio-code```
 
 
 ## Installation der "Dev Containers Extension" in VS Code
