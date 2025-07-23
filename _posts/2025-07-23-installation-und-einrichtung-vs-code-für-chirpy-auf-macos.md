@@ -29,7 +29,9 @@ Ich beschreibe hier in groben Schritten, was auf einem Macbook zu tun ist, um do
 
 ## Installation von VS Code mit brew
 
-```brew install --cask visual-studio-code```
+```bash
+brew install --cask visual-studio-code
+```
 
 
 ## Installation der "Dev Containers Extension" in VS Code
@@ -67,5 +69,5 @@ Man kann die Seite dann per VS Code uploaden. Das sollte bekannt sein.
 Außerdem kann man die Seite auch lokal betrachten. Hierzu gibt man den folgenden Befehl im Terminal von "VS Code" ein.
 
 ```bash
-$ bundle exec jekyll serve
+bundle exec jekyll serve
 ```
