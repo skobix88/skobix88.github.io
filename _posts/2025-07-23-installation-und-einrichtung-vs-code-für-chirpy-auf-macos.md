@@ -66,5 +66,6 @@ Man kann die Seite dann per VS Code uploaden. Das sollte bekannt sein.
 
 Außerdem kann man die Seite auch lokal betrachten. Hierzu gibt man den folgenden Befehl im Terminal von "VS Code" ein.
 
-```Terminal
-$ bundle exec jekyll serve```
+```bash
+$ bundle exec jekyll serve
+```
