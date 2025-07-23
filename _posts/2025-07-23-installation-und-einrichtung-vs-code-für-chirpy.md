@@ -58,3 +58,12 @@ Dann kann man mit der Programmierung der Webseite beginnen/fortfahren.
 
 #![Beschreibung](/assets/img/2025-07-23-installation-und-einrichtung-vs-code-für-chirpy/Unbenannt-1.webp)
 #![Beispiel](/)
+
+
+## Upload oder lokale Seite
+
+Man kann die Seite dann per VS Code uploaden. Das sollte bekannt sein.
+
+Außerdem kann man die Seite auch lokal betrachten.
+
+```$ bundle exec jekyll serve
