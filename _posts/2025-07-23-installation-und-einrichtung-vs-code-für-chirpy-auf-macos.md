@@ -31,7 +31,7 @@ brew install --cask docker
 ## Installation von VS Code mit brew
 
 
-```bash
+```shell
 brew install --cask visual-studio-code
 ```
 
