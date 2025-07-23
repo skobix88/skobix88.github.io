@@ -54,12 +54,6 @@ Dann kann man mit der Programmierung der Webseite beginnen/fortfahren.
 
 
 
-
-> ✅ Hinweis oder Zitat
-
-
-## Bilder einfügen
-
 #![Beschreibung](/assets/img/2025-07-23-installation-und-einrichtung-vs-code-für-chirpy-auf-macos/Unbenannt-1.webp)
 #![Beispiel](/)
 
