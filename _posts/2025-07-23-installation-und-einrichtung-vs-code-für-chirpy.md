@@ -66,4 +66,5 @@ Man kann die Seite dann per VS Code uploaden. Das sollte bekannt sein.
 
 Außerdem kann man die Seite auch lokal betrachten.
 
+```Terminal
 ```$ bundle exec jekyll serve
