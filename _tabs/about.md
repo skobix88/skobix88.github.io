@@ -8,7 +8,7 @@ order: 4
 
 
 
-I'm Tobi, a tech enthusiast out of the famous Black-Forest in Germany. 
+I'm Tobi, a tech-enthusiast out of the famous Black-Forest in Germany. 
 
 
 Here are just a few of the numerous topics I hope to explore and talk about:
