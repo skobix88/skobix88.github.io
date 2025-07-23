@@ -6,9 +6,9 @@ description: "Ich dokumentiere hier ganz grob die Installation und Einrichtung d
 categories: [Blog]
 tags: [vscode, chirpy, github, brew]
 toc: true     # Inhaltsverzeichnis anzeigen
-image:
-  path: /assets/img/2025-07-23-installation-und-einrichtung-vs-code-für-chirpy/preview.png
-  alt: "Vorschaubild"
+#image:
+#  path: /assets/img/2025-07-23-installation-und-einrichtung-vs-code-für-chirpy/preview.png
+#  alt: "Vorschaubild"
 
 # Bildformat 1200 x 630 pixels. bzw. Seitenverhältnis:  1.91:1
 # Webp-Konvertierung nicht vergessen: cwebp chirpy-fast-load.png -o chirpy-fast-load.webp
