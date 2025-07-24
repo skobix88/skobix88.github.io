@@ -25,7 +25,7 @@ Homebrew ermöglicht die einfache Installation, Aktualisierung und Verwaltung vo
 
 ## Hinweis bei lizenzpflichtigen Programmen
 
-> Brew aktualisiert immer auf die neueste Version.
+> Brew aktualisiert Programme immer auf die neueste Version.
 {: .prompt-warning }
 
 Hat man also für ein installiertes Programm keine bzw. für die installierte, und neueste Version keine gültige Lizenz, sollte man
