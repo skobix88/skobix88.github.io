@@ -19,10 +19,10 @@ toc: true     # Inhaltsverzeichnis anzeigen
 
 ## Einleitung
 
-Ich beschreibe hier in groben Schritten, was auf einem Macbook zu tun ist, um dort seine auf Github liegende Webseite mit VS Code zu pflegen.
+Ich beschreibe hier in groben Schritten, was auf einem Macbook zu tun ist, um dort seine auf Github liegende Webseite mit "VS Code" zu pflegen.
 
 
-## Installation von docker-desktop unter macOS mit brew
+## Installation von Docker-Desktop unter macOS mit brew
 
 ```bash
 brew install --cask docker
@@ -36,21 +36,23 @@ brew install --cask visual-studio-code
 ```
 
 
-## Installation der "Dev Containers Extension" in VS Code
+## Installation der "Dev Containers Extension" in "VS Code"
 
 Die Extension kann man einfach [hier](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) installieren.
 
 
 
 
-## Herunterladen der Docker-Umgebung und Grundkonfiguration in VS Code
+## Herunterladen der Docker-Umgebung und Grundkonfiguration in "VS Code"
 
 
-Man kann nun in VS Code F1 bzw. fn+F1 drücken, um dann den Befehl "Dev Containers: Clone Repository in Container Volume..." auszuwählen.
-Anschließend muss man sich u.U. noch in Docker und Github anmelden. 
+Man kann nun in VS Code F1 bzw. fn+F1 drücken, um dann den Befehl 
+"Dev Containers: Clone Repository in Container Volume..."
+auszuwählen.
+Anschließend muss man sich ggf. noch in Docker und Github anmelden. 
 In Github muss man dann seine Repo auswählen und nach 1-2 Minuten ist diese heruntergeladen.
 
-Dann kann man mit der Programmierung der Webseite beginnen/fortfahren.
+Anschließend kann man mit der Programmierung der Webseite beginnen/fortfahren.
 
 
 
