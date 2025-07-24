@@ -29,3 +29,10 @@ An example showing the danger type prompt.
 
 
 
+## Tables
+
+| Company                      | Contact          | Country |
+| :--------------------------- | :--------------- | ------: |
+| Alfreds Futterkiste          | Maria Anders     | Germany |
+| Island Trading               | Helen Bennett    |      UK |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
