@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: blackforeststuff # the main title
 
-tagline: things i like         | tech | photo | smart-home | home-lab | brain-dump | ai |# it will display as the subtitle
+tagline: things i like         | tech | photo | smart-home | home-lab | braindump | ai | # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Everything i like | tech | photo | smart-home | home-lab | brain-dump | ai |
