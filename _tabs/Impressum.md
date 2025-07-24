@@ -5,12 +5,12 @@ order: 5
 ---
 
 Diensteanbieter im Sinne des § 5 TMG:
-: Tobias Kleis
-: Im Weilersfeld 7
-: 77933 Lahr
+: Name: Tobias Kleis
+: Strasse: - auf Anfrage -
+: Stadt und PLZ: - auf Anfrage -
 : Germany
 
 Kontaktinformationen:
-: Telefon: +49 7821 959319
+: Telefon:  - auf Anfrage -
 : E-Mail: admin[at]blackforeststuff[dot]de
 

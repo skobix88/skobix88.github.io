@@ -127,9 +127,9 @@ Konfiguration:
 ```bash
 brew autoupdate start 86400 --upgrade --cleanup --immediate --sudo
 ```
-86400 steht für 86400 Sekunden, also einen exakten Tag.
+86400 steht für 86400 Sekunden, also genau einen Tag.
 
-Für --sudo muss noch etwas nachinstalliert werden. Das passiert mit diesem Befehl:
+Für die --sudo Berechtigung muss noch etwas nachinstalliert werden. Das passiert mit diesem Befehl:
 
 ```bash
 brew install pinentry-mac
