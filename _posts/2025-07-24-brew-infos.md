@@ -19,35 +19,80 @@ toc: true     # Inhaltsverzeichnis anzeigen
 
 ## Einleitung
 
-Hier beginnt dein Artikel.
-> 💡 Kurze Einleitung oder Zitat
-
-## Abschnitt 1 – Was ist das Thema?
-
-- Punkt 1
-- Punkt 2
-
-## Abschnitt 2 – Warum ist es wichtig?
-
-> ✅ Hinweis oder Zitat
-
-## Fazit
-
-Zusammenfassung oder Ausblick.
-
-## Weiterführende Links
-
-- [Link 1](#)
-- [Link 2](#)
-
-## Bilder einfügen
-
-![Beschreibung](/assets/img/2025-07-24-brew-infos/preview.png)
-![Beispiel](/)
+Brew ist eine Art Paketmanager für macOS, außerhalb des Apple App-Stores.
+Homebrew ermöglicht die einfache Installation, Aktualisierung und Verwaltung von Programmen über die Kommandozeile.
 
 
+## Hinweis bei lizenzpflichtigen Programmen
 
-## Autoupdates - Information
+> [!WARNING]
+> Brew aktualisiert immer auf die neueste Version.
+
+Hat man also für ein installiertes Programm keine bzw. für die installierte, und neueste Version keine gültige Lizenz, sollte man
+sich überlegen, das Programm vielleicht außerhalb von Brew zu installieren.
+Oder man kauf sich für das Programm immer die neueste Lizenz! 
+Ich mache das bei Topaz Photo AI und Forklift so.
+
+
+## 1. Programme installieren
+
+Das gliedert sich in Kommandoizeilen-Programme und Programme mit grafischer Oberfläche auf.
+
+Allgemein sieht die Syntax so aus:
+
+```bash
+brew install package_name
+```
+
+
+## Kommandozeilen-Programm installieren:
+
+```bash
+brew install xxx
+```
+
+
+## Desktop-Programme installieren:
+
+Programme mit grafischer Oberfläche installieren
+
+```bash
+brew install –cask xxx
+```
+
+
+## Programme deinstallieren:
+
+```bash
+brew uninstall xxx
+```
+
+## Installierte Programme anzeigen
+Anzeigen aller installierten Formulas
+
+```bash
+brew list
+```
+
+## Installierte Programme aktualisieren
+
+Mit brew upgrade kann man sämtliche Pakete aktualisieren. 
+Besser ist es jedoch auch brew zuvor zu aktualisieren. Dazu kombinierst Du einfach beide Befehle:
+
+```bash
+brew update && brew upgrade
+```
+
+
+## Programme suchen
+
+```bash
+brew search
+```
+Es gibt auch die offizielle Seite formulae.brew.sh, wo man nach Programmen suchen kann
+
+
+## Autoupdates - wichtige Information
 
 Jedesmal wenn man brew ausführt, will es sich und ggf. Apps updaten.
 Das kann man ausschalten:
