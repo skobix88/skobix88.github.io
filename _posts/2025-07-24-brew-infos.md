@@ -36,7 +36,7 @@ Ich mache das bei Topaz Photo AI und Forklift so.
 
 ## 1. Programme installieren
 
-Das gliedert sich in Kommandoizeilen-Programme und Programme mit grafischer Oberfläche auf.
+Das gliedert sich in Programme für die Kommandozeilen und Programme mit grafischer Oberfläche auf.
 
 Allgemein sieht die Syntax so aus:
 
@@ -48,7 +48,7 @@ brew install package_name
 ## Kommandozeilen-Programm installieren:
 
 ```bash
-brew install xxx
+brew install package_name
 ```
 
 
@@ -57,14 +57,14 @@ brew install xxx
 Programme mit grafischer Oberfläche installieren
 
 ```bash
-brew install –cask xxx
+brew install –cask package_name
 ```
 
 
 ## Programme deinstallieren:
 
 ```bash
-brew uninstall xxx
+brew uninstall package_name
 ```
 
 ## Installierte Programme anzeigen
