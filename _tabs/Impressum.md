@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+icon: fas fa-align-justify
+order: 5
 ---
 
 # 👋 Hi!
