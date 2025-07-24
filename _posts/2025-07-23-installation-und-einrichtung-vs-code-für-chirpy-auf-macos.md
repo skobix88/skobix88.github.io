@@ -24,6 +24,9 @@ Ich beschreibe hier in groben Schritten, was auf einem Macbook zu tun ist, um do
 
 ## Installation von Docker-Desktop unter macOS mit brew
 
+Brew sollte natürlich bereits installiert sein.
+
+
 ```bash
 brew install --cask docker
 ````
