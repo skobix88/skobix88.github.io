@@ -89,7 +89,7 @@ brew update && brew upgrade
 ```bash
 brew search
 ```
-Es gibt auch die offizielle Seite <formulae.brew.sh>, wo man nach Programmen suchen kann
+Es gibt auch die offizielle Seite <https://formulae.brew.sh>, wo man nach Programmen suchen kann
 
 
 ## Autoupdates - wichtige Information
