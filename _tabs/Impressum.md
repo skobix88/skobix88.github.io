@@ -4,19 +4,15 @@ icon: fas fa-align-justify
 order: 5
 ---
 
-# 👋 Hi!
+Diensteanbieter im Sinne des § 5 TMG:
 
+Tobias Kleis
+Im Weilersfeld 7
+77933 Lahr
 
+Germany
 
-I'm Tobi, a tech-enthusiast out of the famous Black-Forest in Germany. 
+Kontaktinformationen:
 
-
-Here are just a few of the numerous topics I hope to explore and talk about:
-
-* Smart-home tech and gadgets
-* HomeAutomation
-* HomeLab
-* Artificial Intelligence - Image generation
-* Photo
-
-
+Telefon: +49 7821 959319
+E-mail: admin@blackforeststuff.de
