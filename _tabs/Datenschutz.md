@@ -1,0 +1,22 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 6
+---
+
+# 👋 Hi!
+
+
+
+I'm Tobi, a tech-enthusiast out of the famous Black-Forest in Germany. 
+
+
+Here are just a few of the numerous topics I hope to explore and talk about:
+
+* Smart-home tech and gadgets
+* HomeAutomation
+* HomeLab
+* Artificial Intelligence - Image generation
+* Photo
+
+Sometimes I will use this blog just as a "brain-dump" and "note-shelf"
