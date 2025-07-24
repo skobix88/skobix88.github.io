@@ -9,6 +9,28 @@ cwebp chirpy-fast-load.png -o chirpy-fast-load.webp
 
 
 
+Task 1: Prepare Your Image
+
+
+- Ensure Image Readiness:
+	- For the Chirpy theme, your image should have a resolution of 1200 x 630 pixels.
+	- This resolution ensures the images look great and maintain a consistent aspect ratio.
+- Aspect Ratio Requirement:
+	- The aspect ratio should meet 1.91:1.
+	- If the aspect ratio does not meet this requirement, the image will be scaled and cropped.
+- Using Canva for Image Preparation:
+	- Canva is an excellent tool for resizing and cropping images effectively.
+	- It provides a visual interface for precise control over cropping and composition.
+	- Steps to prepare your image in Canva:
+		1. Create a new design with custom dimensions of 1200x630 pixels.
+		2. Upload your image and place it within the design.
+		3. Adjust the image to fit the frame, ensuring important elements are visible.
+		4. Export the image as a high-quality PNG or JPG.
+
+
+
+
+
 
 
 
