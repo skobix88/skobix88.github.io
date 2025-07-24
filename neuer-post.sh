@@ -33,6 +33,8 @@ description: "Kurze Beschreibung (max. 160 Zeichen)"
 categories: [Blog]
 tags: [tag1, tag2]
 toc: true     # Inhaltsverzeichnis anzeigen
+comments: false
+pin: false
 image:
   path: /$IMAGE_DIR/preview.png
   alt: "Vorschaubild"
