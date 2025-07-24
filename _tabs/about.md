@@ -19,4 +19,4 @@ Here are just a few of the numerous topics I hope to explore and talk about:
 * Artificial Intelligence - Image generation
 * Photo
 
-
+Sometimes I will use this blog just as a "brain-dump" and "note-shelf"
