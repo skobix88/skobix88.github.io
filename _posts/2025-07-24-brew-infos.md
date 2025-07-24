@@ -89,7 +89,7 @@ brew update && brew upgrade
 ```bash
 brew search
 ```
-Es gibt auch die offizielle Seite formulae.brew.sh, wo man nach Programmen suchen kann
+Es gibt auch die offizielle Seite <formulae.brew.sh>, wo man nach Programmen suchen kann
 
 
 ## Autoupdates - wichtige Information
@@ -113,7 +113,7 @@ Anschließend speichern und das Terminal oder bei mir Warp neu starten.
 
 Will man Auto-Updates im Hintergrund ausführen, gibt es das Script
 
-https://github.com/DomT4/homebrew-autoupdate
+<https://github.com/DomT4/homebrew-autoupdate>
 
 
 ## Autoupdates Installation:
