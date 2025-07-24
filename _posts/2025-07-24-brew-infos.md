@@ -97,11 +97,19 @@ Es gibt auch die offizielle Seite formulae.brew.sh, wo man nach Programmen suche
 Jedesmal wenn man brew ausführt, will es sich und ggf. Apps updaten.
 Das kann man ausschalten:
 
-Hierzu editiert man unter MacOS seine Shell Umgebung mit "nano ~/.zshrc" und fügt die folgenden Zeile ein:
+Hierzu editiert man unter MacOS seine Shell Umgebung mit 
 
+```bash
+nano ~/.zshrc
+```
+
+und fügt die folgenden Zeile ein:
+
+```bash
 export HOMEBREW_NO_AUTO_UPDATE="1"
+```
 
-Dann speichern und das Terminal oder bei mir Warp neu starten.
+Anschließend speichern und das Terminal oder bei mir Warp neu starten.
 
 Will man Auto-Updates im Hintergrund ausführen, gibt es das Script
 
