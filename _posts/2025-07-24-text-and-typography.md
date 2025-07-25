@@ -187,7 +187,7 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 
 ## Video
 
-{% include embed/youtube.html id='Balreaj8Yqs' %}
+
 
 ## Reverse Footnote
 
