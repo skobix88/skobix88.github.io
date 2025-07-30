@@ -23,7 +23,7 @@ image:
 
 Bei der Neueinrichtung von "VS Code" kommt es zu der folgenden Fehlermeldung:
 
-![Beschreibung](/assets/img/2025-07-30-git-username--git-useremail/SCR-20250729-rkph.png)
+![Beschreibung](/assets/img/2025-07-30-git-username--git-useremail/SCR-20250729-rkph.webp)
 
 
 ## Abschnitt 1 – Was ist das Thema?
