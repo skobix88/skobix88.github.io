@@ -42,6 +42,10 @@ image:
 # Bildformat 1200 x 630 pixels. bzw. Seitenverhältnis:  1.91:1
 # Webp-Konvertierung nicht vergessen: cwebp chirpy-fast-load.png -o chirpy-fast-load.webp
 #
+# Bildimplementierung inklusive Skalierung:
+# <img src="/assets/img/2025-07-30-git-username--git-useremail/SCR-20250729-rkph.png" alt="Alt Text" style="width:50%; height:auto;">
+#
+#
 # tags:
 # gedanken, blogging,
 ---
