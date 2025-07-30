@@ -36,7 +36,7 @@ toc: true     # Inhaltsverzeichnis anzeigen
 comments: false
 pin: false
 image:
-  path: /$IMAGE_DIR/preview.png
+  path: /$IMAGE_DIR/preview.webp
   alt: "Vorschaubild"
 
 # Bildformat 1200 x 630 pixels. bzw. Seitenverhältnis:  1.91:1
