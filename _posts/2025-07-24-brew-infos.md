@@ -2,7 +2,7 @@
 layout: post
 title: "Brew Infos"
 date: 2025-07-24 05:34:13 +0000
-description: "Hier stelle ich ein paar interessante Befehle rund um Brew vor."
+description: "Hier stelle ich ein paar interessante Befehle rund um Homebrew vor."
 categories: [Blog]
 tags: [brew, macOS]
 toc: true     # Inhaltsverzeichnis anzeigen
