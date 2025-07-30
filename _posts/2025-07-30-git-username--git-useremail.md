@@ -25,8 +25,12 @@ Bei der Neueinrichtung von "VS Code" kommt es zu der folgenden Fehlermeldung:
 
 <img src="/assets/img/2025-07-30-git-username--git-useremail/SCR-20250729-rkph.png" alt="Alt Text" style="width:50%; height:auto;">
 
+Man kann sie allerdings mit 2 Befehlen recht schnell beseitigen.
+
+
 ## Terminal öffnen
 
+Einfach ein neues Terminal öffnen:
 
 ![Beschreibung](/assets/img/2025-07-30-git-username--git-useremail/CleanShot2025-07-30at20.40.08@2x.webp)
 
@@ -34,7 +38,7 @@ Bei der Neueinrichtung von "VS Code" kommt es zu der folgenden Fehlermeldung:
 
 ## Befehle
 
-Hier sind die Befehle:
+Und dann nacheinander die Befehle eingeben:
 
 Username definieren (Eingabe ohne ""):
 ```bash
