@@ -38,7 +38,8 @@ Einfach ein neues Terminal öffnen:
 
 ## Befehle
 
-Und dann nacheinander die Befehle eingeben:
+Und dann nacheinander die Befehle im Terminal eingeben:
+
 
 Username definieren (Eingabe ohne ""):
 ```bash
