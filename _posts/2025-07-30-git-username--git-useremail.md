@@ -9,7 +9,7 @@ toc: true     # Inhaltsverzeichnis anzeigen
 comments: false
 pin: false
 image:
-  path: /assets/img/2025-07-30-git-username--git-useremail/preview.webp
+  path: /assets/img/2025-07-30-git-username--git-useremail/preview.png
   alt: "Vorschaubild"
 
 # Bildformat 1200 x 630 pixels. bzw. Seitenverhältnis:  1.91:1
