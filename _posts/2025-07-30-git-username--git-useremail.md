@@ -23,7 +23,7 @@ image:
 
 Bei der Neueinrichtung von "VS Code" kommt es zu der folgenden Fehlermeldung:
 
-<img src="/assets/img/2025-07-30-git-username--git-useremail/SCR-20250729-rkph.png" alt="Alt Text" style="width:50%; height:auto;">
+<img src="/assets/img/2025-07-30-git-username--git-useremail/SCR-20250729-rkph.png" alt="Make sure you configure your user.name and user.email in git." style="width:50%; height:auto;">
 
 Man kann sie allerdings mit 2 Befehlen recht schnell beseitigen.
 
