@@ -8,7 +8,9 @@ tags: [git]
 toc: true     # Inhaltsverzeichnis anzeigen
 comments: false
 pin: false
-<img src="/assets/img/2025-07-30-git-username--git-useremail/git-user-preview-neu.webp" alt="Vorschaubild" width="1200" height="630" />
+image:
+  path: /assets/img/2025-07-30-git-username--git-useremail/git-user-preview-neu.webp
+  alt: "Vorschaubild"
 
 # Bildformat 1200 x 630 pixels. bzw. Seitenverhältnis:  1.91:1
 # Webp-Konvertierung nicht vergessen: cwebp chirpy-fast-load.png -o chirpy-fast-load.webp
@@ -30,7 +32,8 @@ Man kann sie allerdings mit 2 Befehlen recht schnell beseitigen.
 
 Einfach ein neues Terminal öffnen:
 
-![Beschreibung](/assets/img/2025-07-30-git-username--git-useremail/CleanShot2025-07-30at20.40.08@2x.webp)
+<img src="(/assets/img/2025-07-30-git-username--git-useremail/CleanShot2025-07-30at20.40.08@2x.webp" alt="Text" style="width:50%; height:auto;">
+
 
 
 
