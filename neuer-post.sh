@@ -38,17 +38,32 @@ pin: false
 image:
   path: /$IMAGE_DIR/preview.webp
   alt: "Vorschaubild"
-
-# Bildformat 1200 x 630 pixels. bzw. Seitenverhältnis:  1.91:1
+# Hier muss man keine Größe angeben. Bei Screenshots, die auf Retina-Displays erstellt wurden, sollte man die Auflösung 2400x1260 wählen. Sonst kommt es zu einem Qualitätsverlust.
+# In der Vorschau des Posts wir das automatisch auf 1200x630 runtergerechnet.
+# Normales Bildformat: 1200 x 630 pixels. bzw. Seitenverhältnis:  1.91:1
 # Webp-Konvertierung nicht vergessen: cwebp chirpy-fast-load.png -o chirpy-fast-load.webp
 #
-# Bildimplementierung inklusive Skalierung:
-# <img src="/assets/img/2025-07-30-git-username--git-useremail/SCR-20250729-rkph.png" alt="Alt Text" style="width:50%; height:auto;">
+#
+#
 #
 #
 # tags:
 # gedanken, blogging,
 ---
+
+<!--
+Hier ist ein auskommentierter Bereich für Tipps usw.
+Bildbeschreibung unter einem Bild direkt in der nächsten Zeile mit _Bildbeschreibung_
+
+
+
+
+
+
+
+
+
+-->
 
 ## Einleitung
 
@@ -77,6 +92,7 @@ Zusammenfassung oder Ausblick.
 
 ![Beschreibung](/$IMAGE_DIR/preview.png)
 ![Beispiel](/$IMAGE_FILE)
+_Bildbeschreibung_
 EOF
 
 # Ausgabe & Editor
