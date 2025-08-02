@@ -56,7 +56,12 @@ Hier ist ein auskommentierter Bereich für Tipps usw.
 Bildbeschreibung unter einem Bild direkt in der nächsten Zeile mit _Bildbeschreibung_
 
 
+Hier kann man bei einm Bild im "Body" mit % die Bildgröße skalieren:
 
+<img
+  src="/assets/img/$IMAGE_DIR/previewXXX.png"
+  alt="Bildbeschreibung."
+  style="width:50%; height:auto;">
 
 
 
