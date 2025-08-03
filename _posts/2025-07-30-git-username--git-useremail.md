@@ -34,6 +34,7 @@ Man kann sie allerdings mit 2 Befehlen recht schnell beseitigen.
 Einfach ein neues Terminal öffnen:
 
 <img src="/assets/img/2025-07-30-git-username--git-useremail/CleanShot 2025-08-01 at 07.01.30@2x.png" alt="Text">
+_Terminal_
 
 
 ## Befehle
