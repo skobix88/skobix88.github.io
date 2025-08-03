@@ -72,3 +72,4 @@ Außerdem kann man die Seite auch lokal betrachten. Hierzu gibt man den folgende
 ```bash
 bundle exec jekyll serve
 ```
+
